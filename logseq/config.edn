@@ -79,4 +79,4 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
-   :shortcuts {:editor/up "ctrl+p"}}
+   :shortcuts {:editor/down "down"}}
